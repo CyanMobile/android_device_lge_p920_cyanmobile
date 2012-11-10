@@ -43,6 +43,8 @@ BOARD_USES_TI_OMAP_MODEM_AUDIO := true
 
 BOARD_EGL_CFG := device/lge/p920/egl.cfg
 
+BOARD_CUSTOM_RECOVERY_KEYMAPPING := ../../device/lge/p920/recovery/recovery_ui.c
+
 BOARD_VOLD_MAX_PARTITIONS := 16
 BOARD_VOLD_EMMC_SHARES_DEV_MAJOR := true
 
