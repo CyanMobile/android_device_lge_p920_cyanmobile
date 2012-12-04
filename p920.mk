@@ -116,7 +116,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     OMXCore \
-    libOMX_CoreOsal \
     libOMX_Core \
     libomx_rpc \
     libomx_proxy_common \
